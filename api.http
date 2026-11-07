@@ -1,0 +1,15 @@
+### Teste 1: Cadastrar um Novo Cliente de Atendimento
+POST http://localhost:3333/customers
+Content-Type: application/json
+
+{
+    "name": "Smartspace Cliente Teste",
+    "email": "sucesso@smartspace.com.br",
+    "phone": "83999998888",
+    "notes": "Cliente integrado com sucesso no banco de dados PostgreSQL via SmartConnect API!"
+}
+
+###
+
+### Teste 2: Listar Todos os Clientes Cadastrados
+GET http://localhost:3333/customers
