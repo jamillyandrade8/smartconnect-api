@@ -2,7 +2,6 @@
 
 Esta é uma API RESTful em desenvolvimento, projetada para a gestão e persistência de dados de clientes e históricos de atendimento omnichannel para empresas.
 
-⚠️ **Status:** Projeto em Desenvolvimento Ativo / Fase de Arquitetura Inicial.
 
 ## 🛠️ Tecnologias Planejadas & Utilizadas
 * **Node.js & Express:** Estrutura base do servidor e gerenciamento de rotas.
